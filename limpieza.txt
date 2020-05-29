@@ -1,0 +1,30 @@
+proceso para hacer limpieza
+inicio
+1 me levanto
+2 busco un trapo limpio
+3 si no hay trapo limpio lo lavo
+4 limpio la juguetera
+5 limpio la cocina
+6 limpio la mesa
+7 limpio las ventanas
+8 ordeno los sillones
+9 busco una escoba
+10 reviso si la escoba no tiene polvo
+11 si tiene polvo la lavo
+12 si no tiene polvo continuo
+13 comienzo a barrer 
+14 busco un mascon 
+15 humedesco el mascon
+16 limpio las manchas del piso 
+17 tomo la escoba
+18 vuelvo a barrer
+19 busco un trapiador
+20 si el trapiador esta sucio lo lavo y lo seco
+21 le hecho asistin al trapiador
+22 comienzo a trapiar 
+23 lavo el trapiador
+24 lo pongo a secar 
+25 si el piso esta mojado no dejo entrar a nadie 
+26 si el piso esta seco dejo entrar a mi famila
+      fin
+
